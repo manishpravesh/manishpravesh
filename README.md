@@ -1,6 +1,6 @@
 # Hi there, I'm Manish Kumar 👋
 
-### 👨‍💻 SDE Intern @ Entrepreneur Growth Labs | B.Tech ECE @ IIIT Bhagalpur
+### 👨‍💻 B.Tech @ Indian Institute of Information Technology, Bhagalpur (IIIT-BH)
 
 I am a **Software Development Engineer** passionate about building scalable SaaS platforms and AI-driven applications. My expertise lies in designing complex backends (Microservices, RBAC, Payments) and integrating Generative AI into real-world workflows.
 
@@ -37,16 +37,6 @@ I am a **Software Development Engineer** passionate about building scalable SaaS
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **LAW-GPT** | `React` `Node.js` `PostgreSQL` `Redis` `Stripe` | A SaaS-style legal AI platform. Features **JWT-based RBAC**, Stripe subscription integration, and **Redis-backed usage limiting** to manage quotas efficiently. |
-| **DevTinder** | `MERN` `Socket.io` `JWT` | Full-stack developer matchmaking platform. Implemented **real-time messaging** via Socket.io and a college-aware recommendation engine. |
-| **Landit AI** | `Python` `Flask` `NLP` `GenAI` | SaaS backend for automated cold outreach. Built scalable data ingestion pipelines and **authenticated REST APIs** for resume processing. |
 
 ---
 
