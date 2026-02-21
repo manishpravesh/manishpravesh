@@ -6,7 +6,7 @@ I am a **Software Development Engineer** passionate about building scalable SaaS
 
 * 🔭 **Currently working on:** Advanced backend systems with **Node.js, Redis, and PostgreSQL**.
 * 🚀 **Role:** Scaling automated hiring pipelines and integrating OAuth2/Webhooks at **Entrepreneur Growth Labs**.
-* 🧠 **Problem Solving:** **1800+ Rating** on LeetCode | **3★** on CodeChef | **500+** Problems Solved.
+* 🧠 **Problem Solving:** **1850+ Rating, Knight** on LeetCode | **3★** on CodeChef | **500+** Problems Solved.
 
 ---
 
