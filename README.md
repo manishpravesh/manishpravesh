@@ -1,16 +1,16 @@
-# Hi there, I'm Manish Kumar 👋
+# Hi there, I'm Manish Kumar 
 
-### 👨‍💻 B.Tech @ Indian Institute of Information Technology, Bhagalpur (IIIT-BH)
+###  B.Tech @ Indian Institute of Information Technology, Bhagalpur (IIIT-BH)
 
 I am a **Software Development Engineer** passionate about building scalable SaaS platforms and AI-driven applications. My expertise lies in designing complex backends (Microservices, RBAC, Payments) and integrating Generative AI into real-world workflows.
 
-* 🔭 **Currently working on:** Advanced backend systems with **Node.js, Redis, and PostgreSQL**.
-* 🚀 **Role:** Scaling automated hiring pipelines and integrating OAuth2/Webhooks at **Entrepreneur Growth Labs**.
-* 🧠 **Problem Solving:** **1850+ Rating, Knight** on LeetCode | **3★** on CodeChef | **500+** Problems Solved.
+*  **Currently working on:** Advanced backend systems with **Node.js, Redis, and PostgreSQL**.
+*  **Role:** Scaling automated hiring pipelines and integrating OAuth2/Webhooks at **Entrepreneur Growth Labs**.
+*  **Problem Solving:** **1850+ Rating, Knight** on LeetCode | **3★** on CodeChef | **500+** Problems Solved.
 
 ---
 
-### 🛠️ The Tech Stack
+###  The Tech Stack
 
 **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,11 +40,11 @@ I am a **Software Development Engineer** passionate about building scalable SaaS
 
 ---
 
-### 🏆 Competitive Programming
+###  Competitive Programming
 
 <div align="left">
   <a href="https://leetcode.com/manishpravesh/">
-    <img src="https://img.shields.io/badge/LeetCode-1800%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-1850-Knight%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/manishpravesh">
     <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
