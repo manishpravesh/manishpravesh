@@ -44,7 +44,7 @@ I am a **Software Development Engineer** passionate about building scalable SaaS
 
 <div align="left">
   <a href="https://leetcode.com/manishpravesh/">
-    <img src="https://img.shields.io/badge/LeetCode-1850-Knight%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-1850%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/manishpravesh">
     <img src="https://img.shields.io/badge/CodeChef-3_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
